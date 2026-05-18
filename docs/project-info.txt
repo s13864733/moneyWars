@@ -1,2 +1,4 @@
-Python version: 1.10.11
+Recommended Python version: python>=3.10,<3.13
 Pandas version: 3.0.3
+
+Note: create a venv on your pc to execute the project
