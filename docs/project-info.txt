@@ -1,0 +1,2 @@
+Python version: 1.10.11
+Pandas version: 3.0.3
