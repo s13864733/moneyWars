@@ -2,4 +2,7 @@ GAME_WIDTH = 1920
 GAME_HEIGHT = 1080
 FULLSCREEN = False
 
+# ------ PLAYER SETTINGS ------
+MONEY = 0
+
 __version__ = "0.2"

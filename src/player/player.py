@@ -10,6 +10,7 @@ class Player(pygame.sprite.Sprite):
         self.name = name
         self.money = money
         self.speed = 100
+        self.location = "street"
     
     def handleMovement(self, dt):
         keys = pygame.key.get_pressed()

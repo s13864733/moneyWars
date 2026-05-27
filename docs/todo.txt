@@ -1,0 +1,4 @@
+- finire la schermata del mercato azionario
+- iniziare la costruzione della mappa
+- gestione delle collisioni tra il personaggio e le strutture
+- modificare le impostazioni rendendole .json
